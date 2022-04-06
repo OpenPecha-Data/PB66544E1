@@ -1,0 +1,31 @@
+id: PB66544E1
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1888
+  instance_id: http://purl.bdrc.io/resource/IE1KG1888
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - འཇམ་དཔལ་མཚན་བརྗོད་རྩ་འགྲེལ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - wen shu bie ming shi yi
+  author: http://purl.bdrc.io/resource/P6600
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c59fcc79388741caa991655a6e510dc1:
+      title: པོད ༡་འཇམ་དཔལ་མཚན་བརྗོད་རྩ་འགྲེལ
+      volume_number: 1
+      base_file: UT1KG1888_I1KG1890_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0751A6AB1B459A67
+      image_group: I1KG1890
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG1888
+  - http://purl.bdrc.io/resource/W1KG1888
+  ocr_software: Namsel
+created_at: '2021-12-22T10:36:53.729478'
+last_modified_at: '2021-12-22T10:36:53.729485'
